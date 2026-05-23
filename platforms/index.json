@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/likeich/console-launcher/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/akari068/console-launcher/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -671,7 +671,7 @@
       "platformName": "Sony PlayStation 2",
       "platformShortname": "ps2",
       "platformUniqueId": "ps2",
-      "revisionNumber": 13
+      "revisionNumber": 14
     },
     {
       "filename": "SonyPlayStation3.json",
